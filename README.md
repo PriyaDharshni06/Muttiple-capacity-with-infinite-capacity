@@ -1,4 +1,4 @@
-# NAME: PRIYA DHARSHNI.S
+#  NAME: PRIYA DHARSHNI.S
 # REG NO:24900865
 # EXP-5
 # Multiple server with infinite capacity - (M/M/c):(oo/FIFO)
